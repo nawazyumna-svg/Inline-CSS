@@ -1,1 +1,8 @@
-# Inline-CSS
+< DOCTYPE html>
+<html>
+<head>
+‹link rel="stylesheet" href="mystyle.css">
+</head> <body>
+<h1 >This is Inline CSS</h1> <p>This is example of CSS. <p>
+/body>
+</html>
